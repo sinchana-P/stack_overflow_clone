@@ -1,0 +1,43 @@
+OPEN NEW EMPTY FOLDER IN VS CODE: Stack-overflow-clone
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+			SPLIT THE TERMINAL (BASH TERMINAL)
+
+CLIENT SIDE : TERMINAL
+
+npx create-react-app ./              ---> to create React app
+
+npm install axios jwt-decode moment react-copy-to-clipboard react-router-dom redux react-redux redux-thunk	
+
+																	-----> to install packages
+			--------or--------
+
+$ yarn add axios jwt-decode moment react-copy-to-clipboard react-router-dom redux react-redux redux-thunk
+
+$ npm start
+opens @... http://localhost:3000/
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+SERVER SIDE : TERMINAL
+
+$ npm init						---> to start Node
+
+$ npm i bcryptjs jsonwebtoken cors dotenv express mongoose nodemon					-----> to install dependencies
+
+close for now...
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+To Start App :
+
+$ npm start

@@ -1,0 +1,87 @@
+1.
+Stack Overflow navbar part 1
+63 m
+
+2.
+Stack Overflow navbar part 2
+41 m
+
+3.
+Stack Overflow Auth
+72 m
+
+4.
+Stack Overflow Sidebar
+66 m
+
+5.
+Stack Overflow Home Main Bar part 1
+27 m
+
+6.
+Stack Overflow Home Main Bar part 2
+31 m
+
+7.
+Stack Overflow Ask Question
+40 m
+
+8.
+Stack Overflow Display Question
+61 m
+
+9.
+Stack Overflow Backend folder structure and JWT
+116 m
+
+10.
+Stack Overflow Ask Question Backend
+73 m
+
+11.
+Stack Overflow Home mainbar api integration
+27 m
+
+12.
+Stack Overflow Post New Answer
+52 m
+
+13.
+Stack Overflow calculate time and share functionality
+17 m
+
+14.
+Stack Overflow Stack delete question and answer part 1
+46 m
+
+15.
+Stack Overflow Stack delete question and answer part 2
+22 m
+
+16.
+Stack Overflow Vote functionality
+45 m
+
+17.
+Stack Overflow logout and security
+29 m
+
+18.
+Stack Overflow Tags Page
+22 m
+
+19.
+Stack Overflow user Page
+48 m
+
+20.
+Stack Overflow user Profile Page
+70 m
+
+21.
+Stack Overflow user profile backend and frontend integration
+38 m
+
+22.
+Stack Overflow Deploy your application
+47 m
